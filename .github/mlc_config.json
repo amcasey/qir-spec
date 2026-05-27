@@ -1,0 +1,11 @@
+{
+  "httpHeaders": [
+    {
+      "urls": ["https://www.packtpub.com", "https://hub.packtpub.com"],
+      "headers": {
+        "Accept": "text/html",
+        "User-Agent": "Mozilla/5.0 (compatible; GitHub Actions link checker)"
+      }
+    }
+  ]
+}
