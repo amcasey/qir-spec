@@ -15,7 +15,7 @@ The following link may help to get started and gain an idea what LLVM is all
 about:
 
 - [A quick introduction to
-  LLVM](https://hub.packtpub.com/introducing-llvm-intermediate-representation/)
+  LLVM](https://www.packtpub.com/en-us/learning/how-to-tutorials/introducing-llvm-intermediate-representation/)
 - [Gitbook about LLVM-based
   compilers](https://mapping-high-level-constructs-to-llvm-ir.readthedocs.io/en/latest/)
 - [Language reference manual](https://llvm.org/docs/LangRef.html)
