@@ -364,7 +364,7 @@ If the block returns a non-zero exit code, calls to these functions may be
 omitted, implying that no output will be recorded in this case.
 
 For example, an Adaptive Profile program that uses this optional capability may
-contain a logic like this:
+contain logic like this:
 
 ```llvm
 @0 = internal constant [2 x i8] c"0\00"
